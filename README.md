@@ -15,7 +15,7 @@ Progress on this font will continue via Github so that the project will constant
 
 
 # 
-# 검은고딕 프로젝트
+# 검은고딕
 
 
 ZESSTYPE은 서울을 기반으로 활동하는 독립디자이너로 주로 타입디자인 작업을 진행하고 있습니다. 
