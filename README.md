@@ -1,4 +1,4 @@
-# Black-Han-Sans
+# Black Han Sans
 
 
 ZESSTYPE is a type designer based in Seoul, South Korea. 
