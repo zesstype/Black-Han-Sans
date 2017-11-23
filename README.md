@@ -1,11 +1,17 @@
 # Black-Han-Sans
 
 
-ZESSTYPE is a type designer based in Seoul.
-‘1st Black’ Hangul fonts were made in 2015, and ‘ZBLACK Original’ fonts were improved through tumblbug crowd funding. This ‘Black Han Sans’ project is a Hangul font that adjusts the width of letters based on ‘ZBLACK’ Hangul fonts and enhances readability and usability.
+ZESSTYPE is a type designer based in Seoul, South Korea. 
 
-Black Han Sans is a Hangul font designed to fill a square. 
-It consists of 2,580 Korean characters, numbers and punctuation marks. Latin alphabet letters, and other symbols are not provided. We plan to improve continuously through Github.
+The story of ZESSTYPE began in 2015 with our first Korean Hangul typeface, 1st Black. Since developing that first font, ZESSTYPE has also published a second typeface called ZBLACK Original with support from the Korean crowdfunding platform Tumblbug.
+
+Black Han Sans is a new Korean Hangul typeface based on ZBLACK Original.
+With adjustments to the spacing between letters, this typeface has more structurally unified heights and widths. It has also been improved for greater legibility and usability.
+
+Black Han Sans has been designed to emphasize square shapes as a font for headlines and titles.
+It includes 2,580 Korean characters, numbers and punctuation marks. Latin alphabet characters and other symbols are not provided.
+ 
+Progress on this font will continue via Github so that the project will constantly evolve in various ways.
 
 
 # 
